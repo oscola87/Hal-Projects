@@ -1,0 +1,9 @@
+import random
+
+insult_list = ['Billybob', 'carl', 'betty', 'liam', 'Oliver']
+print(random.choice(insult_list))
+
+print ("is a")
+
+leter_list = ['childish fool', 'prick as thick as tewkesbury mustard', 'Poisonous bunch-backed toad', 'damned and luxurious mountian goat', 'Rooting hog']
+print(random.choice(leter_list))
